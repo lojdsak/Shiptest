@@ -6,5 +6,5 @@
 Добавлена универсальная кнопка FixChat2.
 Добавлена кнопка Refresh TGUI.
 Перемещена и удалена часть кнопок во вкладке ООС"}
-	author = "RalseiDreemuurr, MrCat15352, MysticalFaceLesS, Yata9arasu"
+	author = "RalseiDreemuurr, MrCat15352, MysticalFaceLesS, Yata9arasu, lojdsak"
 
